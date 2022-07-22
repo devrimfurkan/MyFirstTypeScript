@@ -70,13 +70,3 @@ const styles = StyleSheet.create({
     maxHeight: 320,
   },
 });
-// import React from 'react';
-// import { View } from 'react-native';
-// import TopNavigationDividerShowcase from './navi';
-// export default function HomeScreen(){
-//   return(
-//     <View>
-//     <TopNavigationDividerShowcase/>
-//     </View>
-//   );
-// }
